@@ -3,7 +3,9 @@ In this project, the goal was to help Louise with her campaign for a theatrical 
 
 
 
-After doing analysis on the data, we see that theatre productions, specifically plays have a high success rate. https://github.com/laurentvh85/kickstarter-analysis/blob/master/Parent%20Category%20Outcomes.png
+After doing analysis on the data, we see that theatre productions, specifically plays have a high success rate. 
+
+![](ParentCategoryOutcomes.png)
 
 
 
