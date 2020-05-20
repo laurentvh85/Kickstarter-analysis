@@ -5,7 +5,7 @@ In this project, the goal was to help Louise with her campaign for a theatrical 
 
 After doing analysis on the data, we see that theatre productions, specifically plays have a high success rate. 
 
-![](ParentCategoryOutcomes.png)
+![](ParentCategoryOutcomes2.png)
 
 However, her project cost of around $12,000 puts her above the highest point of the quartiled and would classify her project as an outlier. The chart below is from all US plays.
 
