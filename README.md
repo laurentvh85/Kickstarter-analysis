@@ -7,7 +7,9 @@ After doing analysis on the data, we see that theatre productions, specifically 
 
 ![](ParentCategoryOutcomes.png)
 
+However, her project cost of around $12,000 puts her above the highest point of the quartiled and would classify her project as an outlier. The chart below is from all US plays.
 
+![](BoxAndWhiskerUS.png)
 
 
 
