@@ -14,5 +14,4 @@ After doing analysis on the data, we see that theatre productions, specifically 
 
 
 
-
 Some large values are driving all of these distributions. The standard deviations are all roughly twice the IQR in each distribution, except in the failed Kickstarters, where the standard deviation is closer to three times the IQR. There must be some failed Kickstarters with really high goals!
