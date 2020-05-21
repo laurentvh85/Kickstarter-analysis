@@ -13,6 +13,6 @@ The standard deviations are around 2x the IQR in each distribution. In the faile
 
 There also seems to be a bit of seasonality in the data. May and June have the highest successful campaigns
 
-![][(OutcomesBasedonLaunchDatelesson.png)
+![](OutcomesBasedonLaunchDatelesson.png)
 
 My reccomendation to Louise is to launch her campaign in either May or June. I would also suggest that she lower her goal to be closer to the median or mean.
