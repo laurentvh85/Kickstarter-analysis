@@ -16,3 +16,8 @@ There also seems to be a bit of seasonality in the data. May and June have the h
 ![](OutcomesBasedonLaunchDatelesson.png)
 
 My reccomendation to Louise is to launch her campaign in either May or June. I would also suggest that she lower her goal to be closer to the median or mean.
+
+### Challenge
+![](OutcomesBasedonLaunchDate.png)
+![](outcomesbasedongoal.png)
+
