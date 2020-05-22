@@ -29,7 +29,7 @@ In the first part of this exercise we looked at outcomes based on the goal colum
 
 I think that the graph from the exercise is misleading because it is solely based off of the percentage of success in each goal category. It does not take into account the frequency of each occurence based on goal amount. For example: in the $25,000 to $29,999 category there is an 80% failure rate, but this is only out of 5 projects in the data set. That is 0.47% of all the projects. Another example is in the $45,000 to $49,999 range. There is only one data entry, and you have a failure rate of 100%. The boost that we see above in the $35,000 to $44,999 range is only based off of 9 instances out of 1,047. I think a much better way of looking at the data is to forget about percentages and instead have a stacked bar graph using the actual number of the data sets vs the percentage. I have included a graph below that in my opinion paints a more honest picture. I would also filter for country as well to get a more precise picture.
 
-![](stackedbaroutcomes.png)
+![](baroutcomes.png)
 
 Here is what we learned when looking at the launch dates of all theater productions:
 1. There is an increase of success by launching your campaign in May or June. The mean for the data is 69.9 and the median is 68 for successful campaigns, in May there is an increase of 58.6% from the mean and in June it is 42.9% higher from the mean as well.
