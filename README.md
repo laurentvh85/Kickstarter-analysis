@@ -7,7 +7,7 @@ After doing analysis on the data, we see that theatre productions, specifically 
 
 However, her project cost of around $12,000 puts her right around the highest point of the quartile. The chart below is from all US plays.
 
-![](boxandwhisker2.png)
+![](boxandwhisker.png)
 
 The standard deviations are around 2x the IQR in each distribution. In the failed projects it is almost 3x the IQR. Some of the goals must have been extremely large.
 
